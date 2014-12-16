@@ -1,6 +1,8 @@
 HackedIn
 ========
 
+first i like to acknowledge cognizac for his idea !
+
 This has the same function as pingedIn but faster and lighter.
 
 
